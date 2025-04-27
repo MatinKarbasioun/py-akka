@@ -1,4 +1,4 @@
-# PyAkka
+# Py-Akka
 
 **Py-Akka** is a Python library that brings the power and flexibility of Akka.NET and Akka to the Python ecosystem. With PyAkka, you can build highly concurrent, distributed, and fault-tolerant applications using an actor-based model. PyAkka provides asynchronous messaging, supervision, clustering, and sharding capabilities, making it a versatile tool for modern Python developers.
 
